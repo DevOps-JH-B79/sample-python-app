@@ -1,7 +1,7 @@
 # Use official Python image
 FROM python:3.11-slim
 
-ARG USER_NAME="Satish"
+ARG USER_NAME="Akhil"
 ENV USER_NAME=$USER_NAME
 
 # Set working directory
